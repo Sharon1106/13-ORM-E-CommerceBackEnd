@@ -186,7 +186,7 @@ Create the code needed in `server.js` to sync the Sequelize models to the MySQL 
 
 ## Grading Requirements
 
-This homework is graded based on the following criteria: 
+This homework is graded based on the following criteria:
 
 ### Deliverables: 10%
 
