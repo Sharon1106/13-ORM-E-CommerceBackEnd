@@ -1,4 +1,4 @@
-# E-Commerce BackEnd Setup [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# E-Commerce BackEnd Setup
 
 ## Description
 
