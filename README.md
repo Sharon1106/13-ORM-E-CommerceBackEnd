@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a back-end Express.js API that uses MySql and Sequelize built for a E-Commerce website. This API holds information for products like, price, stock, organized by categories. products and tags.
+Back-end Express API uses MySql and Sequelize built for a E-Commerce website. Holds information for products like, price, stock, organized by categories. products and tags.
 
 ### User Story
 
@@ -11,15 +11,6 @@ This is a back-end Express.js API that uses MySql and Sequelize built for a E-Co
   I WANT a back end for my e-commerce website that uses the latest technologies
   SO THAT my company can compete with other e-commerce companies
   ```
-
-## Table of Contents
-
-* [Installation](#Installation)
-* [Usage](#Usage)
-* [Built with](#Built-with)
-* [License](#License)
-* [Contribution](#Contribution)
-* [Questions](#Questions)
   
 ## Installation
 
@@ -38,12 +29,3 @@ This is a back-end Express.js API that uses MySql and Sequelize built for a E-Co
 ## Built with
 
   | Javascript | Dotenv | Express.js | Mysql2 | Node.js  | Sequelize | Nodemon |
-
-## License
-
-  This project is licensed under: [MIT](https://opensource.org/licenses/MIT)
-
-### Questions?
-
-  You can visit: [GitHub](https://github.com/Sharon1106)  
-  For any additional questions you can contact Sharon Martinez at martinezsharonr@gmail.com
